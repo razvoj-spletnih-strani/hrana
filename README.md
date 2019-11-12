@@ -11,3 +11,10 @@ Uvozite datoteko hrana.sql (npr. z orodjem phpmyadmin)
 Projekt Hrana je narejen pod licenco MIT.
 ## Vzdrževanje ##
 Če najdete kakršnokoli napako jo lahko sporočite prek Github issue tracker.
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
