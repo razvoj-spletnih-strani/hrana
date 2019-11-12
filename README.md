@@ -16,5 +16,5 @@ Uvozite datoteko hrana.sql (npr. z orodjem phpmyadmin).
 Projekt Hrana je narejen pod licenco MIT.
 
 ## Vzdrževanje ##
-Če najdete kakršnokoli napako jo lahko sporočite prek [Github issue tracker](https://github.com/simon-horvat/hrana/issues)
+Če najdete kakršnokoli napako jo lahko sporočite prek [Github issue tracker](https://github.com/simon-horvat/hrana/issues).
 
